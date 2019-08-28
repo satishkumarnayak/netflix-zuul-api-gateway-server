@@ -37,6 +37,7 @@
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-sleuth</artifactId>
 		</dependency>
+<<<<<<< HEAD
 
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
@@ -46,6 +47,8 @@
 			<groupId>org.springframework.amqp</groupId>
 			<artifactId>spring-rabbit</artifactId>
 		</dependency>
+=======
+>>>>>>> 8d79d66ba886a4cc6dedf69d0decb7a1adecb51f
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
